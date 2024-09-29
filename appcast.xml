@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>FluentaAI</title>
+    <description>Updates for FluentaAI</description>
+
+    <!-- Latest version -->
+    <item>
+      <title>1.0.4</title>
+      <pubDate>Sun, 29 Sep 2024 16:12:15 +0500</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <!-- Link to Release notes (test now) -->
+      <sparkle:releaseNotesLink>https://fluenta.ai/news</sparkle:releaseNotesLink>
+      <enclosure url="https://vanssoul.github.io/FluentaAI_updater_test/FluentaAI.pkg" length="891868374" type="application/octet-stream" sparkle:edSignature="3k7VqPFFQKuD7sSF86BrV/7VdV0YQRREQ+VVc0ROmHLASXPE1o5Kr8s4b4ETSwyK8e00VdoYz1JEq4uaixMXBQ=="/>
+      <description>Release notes for version 1.0.4</description>
+    </item>
+  </channel>
+</rss>
