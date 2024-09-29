@@ -13,7 +13,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <!-- Link to Release notes (test now) -->
       <sparkle:releaseNotesLink>https://fluenta.ai/news</sparkle:releaseNotesLink>
-      <enclosure url="https://vanssoul.github.io/FluentaAI_updater_test/FluentaAI.pkg" length="891868374" type="application/octet-stream" sparkle:edSignature="3k7VqPFFQKuD7sSF86BrV/7VdV0YQRREQ+VVc0ROmHLASXPE1o5Kr8s4b4ETSwyK8e00VdoYz1JEq4uaixMXBQ=="/>
+      <enclosure url="https://github.com/vanssoul/FluentaAI_updater_test/releases/download/v1.0.4/FluentaAI.pkg" length="891868374" type="application/octet-stream" sparkle:edSignature="3k7VqPFFQKuD7sSF86BrV/7VdV0YQRREQ+VVc0ROmHLASXPE1o5Kr8s4b4ETSwyK8e00VdoYz1JEq4uaixMXBQ=="/>
       <description>Release notes for version 1.0.4</description>
     </item>
   </channel>
